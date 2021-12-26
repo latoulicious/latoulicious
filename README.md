@@ -2,7 +2,11 @@
 
 It's me latoulicious
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=latoulicious&count_private=true&theme=nightowl&show_icons=true)
+
+
+
+
+(https://github-readme-stats.vercel.app/api?username=latoulicious&count_private=true&theme=nightowl&show_icons=true)
 
 
 <!--
